@@ -115,4 +115,4 @@ theme: stun
 deploy:
   type: git
   repo: https://github.com/ChenYuancy123/ChenYuancy123.github.io.git
-  branch: main
+  branch: master
